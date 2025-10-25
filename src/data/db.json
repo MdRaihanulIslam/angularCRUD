@@ -1,0 +1,11 @@
+{
+  "associate": [
+    {
+      "id": 1,
+      "name": "Md Raihanul Islam",
+      "address": "Dhaka, Bangladesh",
+      "creditLimit": 1000,
+      "status": true
+    }
+  ]
+}
