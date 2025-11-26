@@ -46,9 +46,9 @@ export class ListComponent implements OnInit,OnDestroy {
 
   openPopUp(){
     this.dialog.open(AddComponent,{
-      width:'60%',
-      enterAnimationDuration:'1000ms',
-      exitAnimationDuration:'1000ms',
+      width:'40%',
+      enterAnimationDuration:'500ms',
+      exitAnimationDuration:'500ms',
     })
   }
 
